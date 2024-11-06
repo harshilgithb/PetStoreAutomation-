@@ -1,0 +1,24 @@
+17:15:13.504 [main] INFO  api.test.UserTestcase - **********user is creating ***********
+17:15:17.897 [main] INFO  api.test.UserTestcase - **********user is created ***********
+17:15:17.912 [main] INFO  api.test.UserTestcase - **********Get user details ***********
+17:15:19.850 [main] INFO  api.test.UserTestcase - ********** user info is displayed ***********
+17:15:19.868 [main] INFO  api.test.UserTestcase - **********updating user details ***********
+17:15:23.488 [main] INFO  api.test.UserTestcase - **********  user details are updated***********
+17:15:23.501 [main] INFO  api.test.UserTestcase - **********deleting user details ***********
+17:15:24.839 [main] INFO  api.test.UserTestcase - **********deleted user details ***********
+10:50:06.899 [main] INFO  api.test.UserTestcase - **********user is creating ***********
+10:50:10.788 [main] INFO  api.test.UserTestcase - **********user is created ***********
+10:50:10.792 [main] INFO  api.test.UserTestcase - **********Get user details ***********
+10:50:12.129 [main] INFO  api.test.UserTestcase - ********** user info is displayed ***********
+10:50:12.132 [main] INFO  api.test.UserTestcase - **********updating user details ***********
+10:50:14.775 [main] INFO  api.test.UserTestcase - **********  user details are updated***********
+10:50:14.782 [main] INFO  api.test.UserTestcase - **********deleting user details ***********
+10:50:16.137 [main] INFO  api.test.UserTestcase - **********deleted user details ***********
+11:17:17.379 [main] INFO  api.test.UserTestcase - **********user is creating ***********
+11:17:22.558 [main] INFO  api.test.UserTestcase - **********user is created ***********
+11:17:22.571 [main] INFO  api.test.UserTestcase - **********Get user details ***********
+11:17:24.001 [main] INFO  api.test.UserTestcase - ********** user info is displayed ***********
+11:17:24.005 [main] INFO  api.test.UserTestcase - **********updating user details ***********
+11:17:26.700 [main] INFO  api.test.UserTestcase - **********  user details are updated***********
+11:17:26.702 [main] INFO  api.test.UserTestcase - **********deleting user details ***********
+11:17:28.016 [main] INFO  api.test.UserTestcase - **********deleted user details ***********
